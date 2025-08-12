@@ -1,0 +1,25 @@
+locale                   : "en-US"
+site_theme               : "default"
+title                    : "The Explore Zone"
+title_separator          : "-"
+name                     : &name "The Explore Zone"
+description              : &description "Exploring various materials available in the world"
+url                      : https://the-explore-zone.github.io
+baseurl                  : ""
+repository               : "the-explore-zone/the-explore-zone.github.io"
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
+
+whitelist:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
