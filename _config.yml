@@ -7,7 +7,7 @@ description              : &description "Exploring various materials available i
 url                      : https://the-explore-zone.github.io
 baseurl                  : ""
 repository               : "the-explore-zone/the-explore-zone.github.io"
-remote_theme             : "mmistakes/minimal-mistakes"
+theme                    : jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
