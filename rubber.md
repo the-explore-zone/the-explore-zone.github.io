@@ -26,6 +26,7 @@ Then, an adventurer named Henry Wickham secretly carried thousands of seeds to f
 The trees grew well there, and soon most of the world’s rubber came from these sunny plantations.
 
 In the 1900s, during big wars, countries ran out of natural rubber. Scientists rolled up their sleeves and invented synthetic rubber in laboratories — rubber without trees!
+
 Now, cars, planes, shoes, toys, and even space rockets use a mix of both tree rubber and lab rubber.
 
 And the Hevea tree? She still stands in her rainforest home, quietly making her bouncy, magical tears… waiting for the next curious child to discover them.
