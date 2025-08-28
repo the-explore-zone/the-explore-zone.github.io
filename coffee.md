@@ -11,7 +11,7 @@ The word coffee has mysterious roots. Some say it comes from Kaffa, a region in 
 According to legend, coffee was discovered in Yemen after a shepherd noticed his goats acting hyper and staying awake all night. Curious, he took the berries they were eating to a local monastery. The monks tried them and found that the berries helped them stay alert during long prayer sessions. And so, coffee’s journey as a natural stimulant began.
 
 ### 🌍 Early Use and Religious Resistance
-Coffee started as a drink in Ethiopia (once known as Abyssinia) and was traded across the Red Sea to Yemen in the 15th century. It quickly became popular among Muslims who used it to stay awake during prayer. But not everyone was a fan—some religious leaders considered it an intoxicant and tried to ban it.
+Coffee started as a drink in Ethiopia (once known as Abyssinia) and was traded across the Red Sea to Atens in the 15th century. It quickly became popular among Muslims who used it to stay awake during prayer. But not everyone was a fan—some religious leaders considered it an intoxicant and tried to ban it.
 Spoiler: it didn’t work.
 
 ### 🕌 Coffeehouses and Controversies
